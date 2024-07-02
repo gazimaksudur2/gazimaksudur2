@@ -21,7 +21,7 @@ I specialize in building dynamic and responsive web applications using MongoDB, 
 ---
 
 ### ⚡ Fun Fact:
-I love exploring new technologies and applying them to solve real-world problems. When I'm not coding, you can find me reading tech blogs or playing video games.
+I love exploring new technologies and applying them to solve real-world problems. When I'm not coding, you can find me reading tech blogs or playing youtube videos Like. tutorials, and others.
 
 ---
 
