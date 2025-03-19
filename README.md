@@ -1,16 +1,7 @@
-![I am a MERN Stack Developer](https://media.licdn.com/dms/image/v2/D5616AQHXjf-evJnJxg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1716008304879?e=1730937600&v=beta&t=9MEVf-Pj89tLzFnJ904IivdAIT4JZT1aKatxucnw2f0)
-
 ### Hi there 👋, I'm Gazi Maksudur Rahman
-##### Junior MERN Stack Web Developer
+##### Full Stack Web Developer
 
-I specialize in building dynamic and responsive web applications using MongoDB, Express.js, React, and Node.js. My focus is on creating seamless user experiences and efficient, scalable solutions.
-
----
-
-### 🌱 Currently Learning:
-- **Next.js:** Enhancing my skills in server-side rendering and static site generation.
-- **TypeScript:** Adding strong typing to JavaScript for better code quality and maintainability.
-- **Redux:** Managing complex state in React applications more effectively.
+I specialize in building dynamic and responsive web applications using MongoDB, Express.js, React, Node.js, typescript, NextJS and Redux. My focus is on creating seamless user experiences and efficient, scalable solutions.
 
 ---
 
