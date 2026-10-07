@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQHmkR1n9mLvUA/profile-displaybackgroundimage-shrink_350_1400/B56Z9_Ag.CHIAU-/0/1784542269609?e=1788998400&v=beta&t=vSiHnYtHY6R6wQ3zlqhX6s9Hr-HyQW07mrM1YO0uhpA" alt="Gazi Maksudur Rahman Banner">
+  <img src="https://res.cloudinary.com/dsawnilz3/image/upload/v1791348959/linked_cover_banner_f0u5ut.jpg" alt="Gazi Maksudur Rahman Banner">
 </p>
 
 <h1 align="center">Hi, I'm Gazi Maksudur Rahman 👋</h1>
