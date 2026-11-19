@@ -3,17 +3,17 @@
 </p>
 
 <h1 align="center">Hi, I'm Gazi Maksudur Rahman 👋</h1>
-<h3 align="center">Backend-Focused Software Engineer · AWS Certified · DevSecOps Enthusiast</h3>
+<h3 align="center">Software & Cloud Engineer · Backend & DevOps · AWS Certified</h3>
 
 <p align="center">
-  B.Sc. in Computer Science & Engineering from <strong>SUST</strong> (CGPA: 3.59). I architect RESTful APIs, design scalable database schemas, and ship secure, containerized applications. <strong>AWS Certified Cloud Practitioner & Solutions Architect – Associate.</strong> Experienced with Docker, Jenkins, and CI/CD pipelines — and passionate about bringing DevSecOps principles into every layer of the stack.
+  B.Sc. in Computer Science & Engineering from <strong>SUST</strong> (CGPA: 3.58). I build RESTful APIs, design scalable database schemas, and ship secure, containerized applications with <strong>Go, Python, and Node.js</strong>. <strong>AWS Certified Cloud Practitioner & Solutions Architect – Associate.</strong> Experienced with Docker, Jenkins, GitHub Actions, and Terraform — and passionate about bringing DevSecOps principles into every layer of the stack.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gazimaksudur/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://gazimaksudur.me" target="_blank">
+  <a href="https://gazimaksudur.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:gazimaksudur2@gmail.com">
@@ -25,9 +25,9 @@
 
 ### 🚀 What I'm Currently Working On
 
-- ☁️ Deepening expertise in **AWS architecture** and **DevSecOps** practices — CI/CD, containerization, and infrastructure security.
-- 🔧 Building production-grade backends with **Node.js, Express.js, PostgreSQL, and Prisma ORM**.
-- 🤖 Contributing to AI safety and quality through **RLHF annotation and code review** workflows.
+- 💼 Software Engineer Intern at **[W3 Engineers](https://w3engineers.com/)** — contributing to backend API development and production **Next.js** applications, working with **Go (Beego)** and **Python (Flask)**.
+- 🤖 Exploring AI-assisted developer workflows: **LLM integration, AI agents, and Model Context Protocol (MCP)**.
+- ☁️ Deepening expertise in **AWS architecture** and **DevSecOps** practices — CI/CD, containerization, Infrastructure as Code, and infrastructure security.
 
 ---
 
@@ -35,6 +35,7 @@
 
 <p align="center">
   <strong>Languages:</strong><br>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -44,17 +45,20 @@
   <strong>Backend & Databases:</strong><br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
   <br><br>
   <strong>Cloud & DevOps:</strong><br>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-4A90D9?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <br><br>
   <strong>Frontend:</strong><br>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -72,22 +76,25 @@
 
 ### 🏅 Certifications
 
-| Badge | Certification | Issuer | Date |
-|---|---|---|---|
-| ☁️ | AWS Certified Cloud Practitioner (CLF-C02) | Amazon Web Services | Jun 2026 |
-| 🏗️ | AWS Certified Solutions Architect – Associate (SAA-C03) | Amazon Web Services | Jun 2026 |
-| 🐳 | Docker Training Course for the Absolute Beginner | KodeKloud | Jan 2026 |
-| ⚙️ | Jenkins: Building CI/CD Pipelines for Scalable Web Applications | KodeKloud | Feb 2026 |
+| Badge | Certification | Issuer | Date | Credential |
+|---|---|---|---|---|
+| 🏗️ | AWS Certified Solutions Architect – Associate (SAA-C03) | Amazon Web Services | Jun 2026 | [Verify](https://www.credly.com/badges/8b5b00df-d757-4c1f-9a77-f72e7e020167) |
+| ☁️ | AWS Certified Cloud Practitioner (CLF-C02) | Amazon Web Services | Jun 2026 | [Verify](https://www.credly.com/badges/a4d25557-db46-4ff4-9365-471232c699b6) |
+| ⚙️ | Jenkins: Building CI/CD Pipelines for Scalable Web Applications | KodeKloud | Feb 2026 | — |
+| 🐳 | Docker Training Course for the Absolute Beginner | KodeKloud | Jan 2026 | — |
 
 ---
 
 ### 💼 Experience
 
-**Full-Stack Developer Intern** — *Digital Way Business, Sylhet* `Jul 2025 – Jan 2026`
-> Contributed to the backend of **SyloTea**, an e-commerce platform — API design with Node.js/Express, PostgreSQL schema via Prisma ORM, and RBAC authorization middleware. Collaborated across the full SDLC from architecture to production deployment.
+**Software Engineer Intern** — *[W3 Engineers Ltd.](https://w3engineers.com/), Dhaka* `Sep 2026 – Present`
+> Intensive training in full-stack development (HTML, CSS, Tailwind CSS, JavaScript, React, Next.js, Go/Beego, Python/Flask) and AI/automation techniques (web scraping, LLMs, AI agents, MCP), followed by a move onto a live project team contributing to backend API development and production application workflows.
 
-**AI Software Trainer & QA Specialist** — *Outlier AI (Remote, Freelance)* `Mar 2024 – Feb 2026`
-> Contributed to large-scale RLHF pipelines — reviewing AI-generated code for correctness, security vulnerabilities, and edge-case handling across Python, JavaScript, and C++. Led annotation workflows and identified security anti-patterns to reduce unsafe model outputs.
+**Full-Stack Developer** — *[DigitalWay Business](https://digitalwaybusiness.com/)* `Jul 2025 – Aug 2026`
+> Worked on **[SyloTea](https://sylotea.com/)**, a production cash-on-delivery e-commerce platform built with Next.js, TypeScript, Tailwind CSS, MySQL, and Drizzle ORM — product and stock management, secure server-side order pricing, order tracking, and automated email/invoice workflows. Also architected e-commerce cart management systems with Next.js, Express, and PostgreSQL, applied RBAC middleware across admin, vendor, and customer modules, and built an order-notification mailing service with Resend.
+
+**AI Software Trainer & Code Evaluation Specialist** — *Outlier AI (Remote, Freelance)* `Mar 2024 – Feb 2026`
+> Contributed to large-scale RLHF pipelines — reviewing AI-generated code for correctness, security vulnerabilities, and edge-case handling across Python, JavaScript, and C++. Identified security anti-patterns to reduce unsafe model outputs.
 
 ---
 
@@ -95,9 +102,21 @@
 
 | Project | Stack | Description |
 |---|---|---|
-| [**AWS Certification Practice Hub**](https://github.com/gazimaksudur2) | React 18 · TypeScript · Vite · Tailwind | Production study platform for CLF-C02 & SAA-C03 with timed exam simulation, topic filtering, and a 4-week study plan. |
-| [**SmartAgroConnect**](https://github.com/gazimaksudur2) | React · Express · MongoDB · Node.js | Agricultural marketplace with RBAC for farmers, agents, and buyers — modular MVC architecture. |
-| [**ElevateEx**](https://github.com/gazimaksudur2) | React · Firebase Auth · MongoDB · Node.js | Full-stack EdTech platform with multi-role dashboards, enrollment management, and React Query for server-state. |
+| [**SyloTea**](https://sylotea.com/) | Next.js · TypeScript · Tailwind CSS · MySQL · Drizzle ORM · Zustand | Mobile-first cash-on-delivery e-commerce platform with a customer storefront, role-based admin panel, stock management, order tracking, and automated email and invoice workflows. |
+| [**Cloud Expense Management Platform**](https://github.com/gazimaksudur2/aws-expense-tracker) | Go · Docker · AWS Lambda · API Gateway · DynamoDB · S3 · Terraform · GitHub Actions | Serverless expense-tracking API with single-table DynamoDB design, Cognito JWT auth, Terraform-provisioned infrastructure, and keyless OIDC CI/CD. |
+| [**Event Explorer**](https://github.com/gazimaksudur2/w3-a5) | Go · Docker · AWS EC2 · PostgreSQL | Concurrent REST service using goroutines, in-memory caching, and connection pooling, shipped with multi-stage Docker builds and a GitHub Actions pipeline to EC2. |
+| [**AWS Certification Practice Hub**](https://github.com/gazimaksudur2/aws-certification-prep) | React 18 · TypeScript · Vite · Node.js | Study platform for CLF-C02 & SAA-C03 with timed practice assessments, topic filtering, and a Node.js content-ingestion pipeline for Markdown/JSON datasets. |
+| [**SmartAgroConnect**](https://smartagroconnect-79578.web.app/products) | React · Express · MongoDB · Node.js | Agricultural marketplace with RBAC for farmers, agents, and buyers, Cloudinary media handling, and secure payment integration — modular MVC architecture. |
+| **ElevateEx** | React · Firebase Auth · MongoDB · Node.js | Full-stack EdTech platform with multi-role dashboards, enrollment management, and React Query for server-state. |
+| **Smart Drone Traffic Analyzer** | YOLOv8 · ByteTrack · FastAPI | Computer-vision traffic analysis service built on object detection and multi-object tracking. |
+
+---
+
+### 🎓 Education & Research
+
+**B.Sc. in Computer Science & Engineering** — *Shahjalal University of Science and Technology (SUST)* `Jan 2022 – Aug 2026` · CGPA 3.58
+
+**Thesis:** *Drug-Target Interaction (DTI) Prediction via Hybrid Feature Augmentation* — a data-centric AI framework evaluated on Davis, KIBA, and BindingDB-KD, using a 14-feature UniProt metadata vector in place of 125 redundant sequence descriptors and achieving up to a 9.6% AUROC improvement over state-of-the-art baselines.
 
 ---
 
